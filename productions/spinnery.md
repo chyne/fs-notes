@@ -84,4 +84,4 @@
 | 2 Wool | 1 Fabric | 1,440 | 1,440 Fabric[^1] |
 | 5 Cotton | 3 Fabric | 576 | 1,728 Fabric[^1] |
 
-[^1]: Shared Throughput, actual total equals max total divided by number of productions running
+[^1]: Shared throughput, actual total equals max total divided by number of productions running.
