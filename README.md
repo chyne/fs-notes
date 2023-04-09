@@ -4,6 +4,7 @@
 
 - [Dairy](./productions/dairy.md)
 - [Grain Mill](./productions/grain-mill.md)
+- [Greenhouses](./productions/greenhouses.md)
 - [Oil Mill](./productions/oil-mill.md)
 - [Raisin Factory](./productions/raisin-factory.md)
 - [Spinnery](./productions/spinnery.md)
