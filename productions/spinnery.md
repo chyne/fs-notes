@@ -1,5 +1,7 @@
 # Spinnery
 
+> Data is based content of game files
+
 ## Placeable US Spinnery
 
 - Price: 60,000

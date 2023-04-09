@@ -1,5 +1,7 @@
 # Dairy
 
+> Data is based content of game files
+
 ## Placeable US Dairy
 
 - Price: 70,000
@@ -107,4 +109,4 @@
 |---|---|---|---|
 | 1 Milk + 1 Sugar | 1 Chocolate | 2,400 | 2,400 Chocolate[^1] |
 
-[^1] Shared Throughput, actual total equals max total divided by number of productions running
+[^1]: Shared Throughput, actual total equals max total divided by number of productions running
