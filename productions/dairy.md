@@ -3,7 +3,7 @@
 ## Placeable US Dairy
 
 - Price: 70,000
-- Shared Throughput: Yes
+- Shared Throughput: Yes[^1]
 
 ### Storage Capacities
 
@@ -19,14 +19,14 @@
 
 | Inputs | Outputs | Cycles / Month | Max Total Output / Month |
 |---|---|---|---|
-| 15 Milk | 13 Butter | 480 |6,240 Butter* |
-| 3 Milk | 2 Cheese | 1,200 |2,400 Cheese* |
-| 1 Milk + 1 Sugar | 1 Chocolate | 2,400 | 2,400 Chocolate* |
+| 15 Milk | 13 Butter | 480 |6,240 Butter[^1] |
+| 3 Milk | 2 Cheese | 1,200 |2,400 Cheese[^1] |
+| 1 Milk + 1 Sugar | 1 Chocolate | 2,400 | 2,400 Chocolate[^1] |
 
 ## Placeable EU Dairy
 
 - Price: 70,000
-- Shared Throughput: Yes
+- Shared Throughput: Yes[^1]
 
 ### Storage Capacities
 
@@ -42,9 +42,9 @@
 
 | Inputs | Outputs | Cycles / Month | Max Total Output / Month |
 |---|---|---|---|
-| 15 Milk | 13 Butter | 480 |6,240 Butter* |
-| 3 Milk | 2 Cheese | 1,200 |2,400 Cheese* |
-| 1 Milk + 1 Sugar | 1 Chocolate | 2,400 | 2,400 Chocolate* |
+| 15 Milk | 13 Butter | 480 |6,240 Butter[^1] |
+| 3 Milk | 2 Cheese | 1,200 |2,400 Cheese[^1] |
+| 1 Milk + 1 Sugar | 1 Chocolate | 2,400 | 2,400 Chocolate[^1] |
 
 ## Default Elm Creek Dairy
 
@@ -53,7 +53,7 @@
 ## Default Haut-Beyleron Dairy
 
 - Price: 50,000
-- Shared Throughput: Yes
+- Shared Throughput: Yes[^1]
 
 ### Storage Capacities
 
@@ -67,13 +67,13 @@
 
 | Inputs | Outputs | Cycles / Month | Max Total Output / Month |
 |---|---|---|---|
-| 15 Milk | 13 Butter | 480 |6,240 Butter* |
-| 3 Milk | 2 Cheese | 1,200 |2,400 Cheese* |
+| 15 Milk | 13 Butter | 480 |6,240 Butter[^1] |
+| 3 Milk | 2 Cheese | 1,200 |2,400 Cheese[^1] |
 
 ## Default Erlengrat Dairy (Cheese Factory)
 
 - Price: 50,000
-- Shared Throughput: Yes
+- Shared Throughput: Yes[^1]
 
 | Type | Storage Capacity |
 |---|---|
@@ -85,13 +85,13 @@
 
 | Inputs | Outputs | Cycles / Month | Max Total Output / Month |
 |---|---|---|---|
-| 15 Milk | 13 Butter | 480 |6,240 Butter* |
-| 3 Milk | 2 Cheese | 1,200 |2,400 Cheese* |
+| 15 Milk | 13 Butter | 480 |6,240 Butter[^1] |
+| 3 Milk | 2 Cheese | 1,200 |2,400 Cheese[^1] |
 
 ## Default Erlengrat Dairy (Chocolate Factory)
 
 - Price: 50,000
-- Shared Throughput: Yes
+- Shared Throughput: Yes[^1]
 
 ### Storage Capacities
 
@@ -105,6 +105,6 @@
 
 | Inputs | Outputs | Cycles / Month | Max Total Output / Month |
 |---|---|---|---|
-| 1 Milk + 1 Sugar | 1 Chocolate | 2,400 | 2,400 Chocolate* |
+| 1 Milk + 1 Sugar | 1 Chocolate | 2,400 | 2,400 Chocolate[^1] |
 
-\* Shared Throughput, actual total equals max total divided by number of productions running
+[^1] Shared Throughput, actual total equals max total divided by number of productions running

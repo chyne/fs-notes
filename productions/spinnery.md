@@ -3,7 +3,7 @@
 ## Placeable US Spinnery
 
 - Price: 60,000
-- Shared Throughput: Yes
+- Shared Throughput: Yes[^1]
 
 ### Storage Capacities
 
@@ -17,13 +17,13 @@
 
 | Inputs | Outputs | Cycles / Month | Max Total Output / Month |
 |---|---|---|---|
-| 2 Wool | 1 Fabric | 1,440 | 1,440 Fabric* |
-| 5 Cotton | 3 Fabric | 576 | 1,728 Fabric* |
+| 2 Wool | 1 Fabric | 1,440 | 1,440 Fabric[^1] |
+| 5 Cotton | 3 Fabric | 576 | 1,728 Fabric[^1] |
 
 ## Placeable EU Spinnery
 
 - Price: 60,000
-- Shared Throughput: Yes
+- Shared Throughput: Yes[^1]
 
 ### Storage Capacities
 
@@ -37,8 +37,8 @@
 
 | Inputs | Outputs | Cycles / Month | Total Output / Month |
 |---|---|---|---|
-| 2 Wool | 1 Fabric | 1,440 | 1,440 Fabric* |
-| 5 Cotton | 3 Fabric | 576 | 1,728 Fabric* |
+| 2 Wool | 1 Fabric | 1,440 | 1,440 Fabric[^1] |
+| 5 Cotton | 3 Fabric | 576 | 1,728 Fabric[^1] |
 
 ## Default Elm Creek Spinnery
 
@@ -51,7 +51,7 @@
 ## Default Erlengrat Spinnery
 
 - Price: 60,000
-- Shared Throughput: Yes
+- Shared Throughput: Yes[^1]
 
 | Type | Storage Capacity |
 |---|---|
@@ -63,7 +63,7 @@
 
 | Inputs | Outputs | Cycles / Month | Total Output / Month |
 |---|---|---|---|
-| 2 Wool | 1 Fabric | 1,440 | 1,440 Fabric* |
-| 5 Cotton | 3 Fabric | 576 | 1,728 Fabric* |
+| 2 Wool | 1 Fabric | 1,440 | 1,440 Fabric[^1] |
+| 5 Cotton | 3 Fabric | 576 | 1,728 Fabric[^1] |
 
-\* Shared Throughput, actual total equals max total divided by number of productions running
+[^1]: Shared Throughput, actual total equals max total divided by number of productions running
