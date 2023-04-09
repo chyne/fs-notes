@@ -106,7 +106,7 @@
 
 [See Placeable 1MW BGA](#placeable-1mw-bga)
 
-## Placeable Alps BGA (only available on Erlengrat)
+## Placeable Alps BGA (only available on Erlengrat, not actually placeable)
 
 - Price: 435,000
 - Shared Throughput: Yes[^1]
