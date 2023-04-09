@@ -48,7 +48,23 @@
 
 ## Default Haut-Beyleron Spinnery
 
-[See Placeable EU Spinnery](#placeable-eu-spinnery)
+- Price: 60,000
+- Shared Throughput: Yes[^1]
+
+### Storage Capacities
+
+| Type | Storage Capacity |
+|---|---|
+|Wool|45,000|
+|Cotton|45,000|
+|Fabric|5,000|
+
+### Production
+
+| Inputs | Outputs | Cycles / Month | Total Output / Month |
+|---|---|---|---|
+| 2 Wool | 1 Fabric | 1,440 | 1,440 Fabric[^1] |
+| 5 Cotton | 3 Fabric | 576 | 1,728 Fabric[^1] |
 
 ## Default Erlengrat Spinnery
 
