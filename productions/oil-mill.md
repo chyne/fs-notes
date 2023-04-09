@@ -1,8 +1,8 @@
-# Sugar Mill
+# Oil Mill
 
 > Data is based content of game files
 
-## Placeable Sugar Mill
+## Placeable Oil Mill
 - Price: 80,000
 - Shared Throughput: Yes[^1]
 
