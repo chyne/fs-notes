@@ -2,7 +2,7 @@
 
 > Data is based content of game files
 
-## Placeable Small Greenhouse (Small)
+## Placeable Greenhouse (Small)
 - Price: 3,000
 - Shared Throughput: Yes[^1]
 
@@ -23,7 +23,7 @@
 | 2 Water | 1 Lettuce | 192 | 192 Lettuce[^1] |
 | 1 Water | 2 Strawberry | 384 |768 Strawberry[^1] |
 
-## Placeable Small Greenhouse (Medium)
+## Placeable Greenhouse (Medium)
 - Price: 5,000
 - Shared Throughput: Yes[^1]
 
@@ -45,7 +45,7 @@
 | 1 Water | 2 Strawberry | 672 |1,344 Strawberry[^1] |
 
 
-## Placeable Small Greenhouse (Large)
+## Placeable Greenhouse (Large)
 - Price: 10,000
 - Shared Throughput: Yes[^1]
 
