@@ -5,3 +5,4 @@
 - [Dairy](./productions/dairy.md)
 - [Grain Mill](./productions/grain-mill.md)
 - [Spinnery](./productions/spinnery.md)
+- [Sugar Mill](./productions/sugar-mill.md)
