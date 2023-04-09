@@ -2,6 +2,7 @@
 
 ## Productions
 
+- [BGA](./productions/bga.md)
 - [Dairy](./productions/dairy.md)
 - [Grain Mill](./productions/grain-mill.md)
 - [Greenhouses](./productions/greenhouses.md)
