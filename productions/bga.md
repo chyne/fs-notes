@@ -9,13 +9,13 @@
 
 ### Storage Capacities
 
-|Type|Storage Capacity|
-|---|---|
-|Silage|30,000|
-|Manure|7,200|
-|Sugar Beet Cut|3,600|
-|Slurry|30,000|
-|Digestate|1,900,000|
+|Type|Storage Capacity|Supports Extension|
+|---|---|---|
+|Silage|30,000|Yes|
+|Manure|7,200|Yes|
+|Sugar Beet Cut|3,600|Yes|
+|Slurry|30,000|Yes|
+|Digestate|1,900,000|?|
 
 ### Production
 
@@ -33,13 +33,13 @@
 
 ### Storage Capacities
 
-|Type|Storage Capacity|
-|---|---|
-|Silage|76,000|
-|Manure|18,000|
-|Sugar Beet Cut|9,000|
-|Slurry|76,000|
-|Digestate|3,900,000|
+|Type|Storage Capacity|Supports Extension|
+|---|---|---|
+|Silage|76,000|Yes|
+|Manure|18,000|Yes|
+|Sugar Beet Cut|9,000|Yes|
+|Slurry|76,000|Yes|
+|Digestate|3,900,000|?|
 
 ### Production
 
@@ -57,13 +57,13 @@
 
 ### Storage Capacities
 
-|Type|Storage Capacity|
-|---|---|
-|Silage|152,750|
-|Manure|36,370|
-|Sugar Beet Cut|18,180|
-|Slurry|152,750|
-|Digestate|5,600,000|
+|Type|Storage Capacity|Supports Extension|
+|---|---|---|
+|Silage|152,750|Yes|
+|Manure|36,370|Yes|
+|Sugar Beet Cut|18,180|Yes|
+|Slurry|152,750|Yes|
+|Digestate|5,600,000|?|
 
 ### Production
 
@@ -81,13 +81,13 @@
 
 ### Storage Capacities
 
-|Type|Storage Capacity|
-|---|---|
-|Silage|152,750|
-|Manure|36,370|
-|Sugar Beet Cut|18,180|
-|Slurry|152,750|
-|Digestate|5,600,000|
+|Type|Storage Capacity|Supports Extension|
+|---|---|---|
+|Silage|152,750|Yes|
+|Manure|36,370|Yes|
+|Sugar Beet Cut|18,180|Yes|
+|Slurry|152,750|Yes|
+|Digestate|5,600,000|?|
 
 ### Production
 
@@ -113,13 +113,13 @@
 
 ### Storage Capacities
 
-|Type|Storage Capacity|
-|---|---|
-|Silage|30,000|
-|Manure|7,200|
-|Sugar Beet Cut|3,600|
-|Slurry|30,000|
-|Digestate|1,900,000|
+|Type|Storage Capacity|Supports Extension|
+|---|---|---|
+|Silage|30,000|Yes|
+|Manure|7,200|Yes|
+|Sugar Beet Cut|3,600|Yes|
+|Slurry|30,000|Yes|
+|Digestate|1,900,000|?|
 
 ### Production
 
