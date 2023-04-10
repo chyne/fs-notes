@@ -8,12 +8,12 @@
 
 ### Storage Capacities
 
-| Type | Storage Capacity |
-|---|---|
-|Water|5,000|
-|Lettuce|3,000|
-|Tomato|2,000|
-|Strawberry|6,000|
+| Type | Storage Capacity | Supports Extension |
+|---|---|---|
+|Water|5,000|Yes|
+|Lettuce|3,000|?|
+|Tomato|2,000|?|
+|Strawberry|6,000|?|
 
 ### Production
 
@@ -29,12 +29,12 @@
 
 ### Storage Capacities
 
-| Type | Storage Capacity |
-|---|---|
-|Water|10,000|
-|Lettuce|6,000|
-|Tomato|4,000|
-|Strawberry|12,000|
+| Type | Storage Capacity | Supports Extension |
+|---|---|---|
+|Water|10,000|Yes|
+|Lettuce|6,000|?|
+|Tomato|4,000|?|
+|Strawberry|12,000|?|
 
 ### Production
 
@@ -51,12 +51,12 @@
 
 ### Storage Capacities
 
-| Type | Storage Capacity |
-|---|---|
-|Water|20,000|
-|Lettuce|12,000|
-|Tomato|8,000|
-|Strawberry|24,000|
+| Type | Storage Capacity | Supports Extension |
+|---|---|---|
+|Water|20,000|Yes|
+|Lettuce|12,000|?|
+|Tomato|8,000|?|
+|Strawberry|24,000|?|
 
 ### Production
 
