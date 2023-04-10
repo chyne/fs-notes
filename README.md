@@ -13,3 +13,4 @@
 - [Raisin Factory](./productions/raisin-factory.md)
 - [Spinnery](./productions/spinnery.md)
 - [Sugar Mill](./productions/sugar-mill.md)
+- [Tailor](./productions/tailor.md)
