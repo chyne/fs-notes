@@ -8,6 +8,7 @@ Most base game productions (but not all) are 'shared throughput' meaning that th
 
 - [Bakery](./productions/bakery.md)
 - [BGA](./productions/bga.md)
+- [Cereal Factory](./productions/cereal.md)
 - [Dairy](./productions/dairy.md)
 - [Grain Mill](./productions/grain-mill.md)
 - [Greenhouses](./productions/greenhouses.md)
